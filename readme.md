@@ -81,7 +81,7 @@ As seguintes etapas foram concluídas:
 - Integração do backend com Node.js e Express.js
 
 A partir deste ponto, o foco será exclusivamente no desenvolvimento do backend, utilizando o Postman para testar as funcionalidades.
-
+git
 Última atualização: **02/02/2025**
 
 ------------------------------------------------------------------------------
